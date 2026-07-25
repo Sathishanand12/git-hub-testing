@@ -1,0 +1,7 @@
+public class reversestring{
+public static void main (String [] args){
+String str = "String";
+String rev = "";
+for(int i = str
+}
+}
